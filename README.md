@@ -9,10 +9,10 @@ Instalaciones y configuraciones para Windows, los URLS que aquí se presentan al
 
 ### JAVA
 
-**Java JRE 8:** https://www.java.com/es/download/
-**Java JDK 8:** https://www.oracle.com/mx/java/technologies/javase/javase-jdk8-downloads.html
-**Java JDK 11:** https://www.oracle.com/mx/java/technologies/javase/jdk11-archive-downloads.html
-**Java JDK 13:** https://www.oracle.com/java/technologies/javase/jdk13-archive-downloads.html
+**Java JRE 8:** https://www.java.com/es/download/   
+**Java JDK 8:** https://www.oracle.com/mx/java/technologies/javase/javase-jdk8-downloads.html   
+**Java JDK 11:** https://www.oracle.com/mx/java/technologies/javase/jdk11-archive-downloads.html    
+**Java JDK 13:** https://www.oracle.com/java/technologies/javase/jdk13-archive-downloads.html   
 
 **Configuración:**
 
@@ -21,13 +21,13 @@ Instalaciones y configuraciones para Windows, los URLS que aquí se presentan al
 
 
 ### Editores de código
-**Notepad ++ :** https://notepad-plus-plus.org/downloads/
-**VS Code:** https://code.visualstudio.com/Download
+**Notepad ++ :** https://notepad-plus-plus.org/downloads/   
+**VS Code:** https://code.visualstudio.com/Download   
 
 ### Tools
-**Apache Maven:** https://maven.apache.org/download.cgi
-**Git:** https://git-scm.com/downloads
-**XAMPP:** https://www.apachefriends.org/es/download.html
+**Apache Maven:** https://maven.apache.org/download.cgi   
+**Git:** https://git-scm.com/downloads   
+**XAMPP:** https://www.apachefriends.org/es/download.html   
 
 
 ### Integrated Development Environment (IDE):
